@@ -45,9 +45,9 @@ local FreshLua = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FreshLua&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FreshLua&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -55,7 +55,7 @@ local FreshLua = {
 
 ## 🍀 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&bg_color=000000&color=7FFF00&line=7FFF00&point=FFFFFF&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FreshLua&theme=react-dark&bg_color=000000&color=7FFF00&line=7FFF00&point=FFFFFF&hide_border=true" width="100%">
 
 ---
 
@@ -78,6 +78,6 @@ local FreshLua = {
 
 ### 💚 Fresh Lua
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors&color=7FFF00&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=FreshLua&label=Visitors&color=7FFF00&style=for-the-badge"/>
 
 </div>****

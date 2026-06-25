@@ -80,4 +80,4 @@ local FreshLua = {
 
 <img src="https://komarev.com/ghpvc/?username=FreshLua&label=Visitors&color=7FFF00&style=for-the-badge"/>
 
-</div>****
+</div>

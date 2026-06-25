@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="!<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/2dcf405c-d57f-4738-9c4d-7324e1d2c5a0" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/2dcf405c-d57f-4738-9c4d-7324e1d2c5a0" />
 
 
 # 🍃 Fresh Lua

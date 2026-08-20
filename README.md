@@ -28,6 +28,14 @@ local FreshLua = {
     status = "Building cool things"
 }
 ```
+ ---
+
+## 🔧 Instant JSON Formatter CLI
+Format, minify, validate, and colorize JSON instantly.
+
+👉 https://github.com/FreshLua/jsonfmt
+
+
 
 ---
 

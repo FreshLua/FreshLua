@@ -5,7 +5,7 @@
 
 # 🍃 Fresh Lua
 
-### Clean Scripts • Fresh Ideas • Better Experiences
+### Clean Code • Fresh Ideas • Better Experiences
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7FFF00&center=true&vCenter=true&width=600&lines=Lua/Luau+Developer;Script+Designer;UI+Creator;Always+Keeping+It+Fresh" />
 
